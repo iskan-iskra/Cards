@@ -1,5 +1,7 @@
 # Cards (HTML and CSS)
-Some tasks from IT-STEP
+Some task from IT-STEP
+
+Make animation for cards opening using only HTML and CSS (SCSS)
 
 https://iskan-iskra.github.io/Cards/
 
