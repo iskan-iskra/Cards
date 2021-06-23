@@ -1,2 +1,2 @@
-# HTMl-and-CSS
+# Cards (HTML and CSS)
 Some tasks from IT-STEP
